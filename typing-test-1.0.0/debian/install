@@ -1,0 +1,9 @@
+typing-test usr/bin/
+typing-test.1 usr/share/man/man1/
+typing-test.svg usr/share/pixmaps/
+typing-test.desktop usr/share/applications/
+background.jpg usr/share/typing-test/
+icon.png usr/share/typing-test/
+sentences.txt usr/share/typing-test/
+type-speed-open.png usr/share/typing-test/
+unsplash.jpg usr/share/typing-test/

@@ -1,0 +1,14 @@
+Source: typing-test
+Section: python
+Maintainer: Shallon Kobusinge <kobshallon041@gmail.com>
+Build-Depends: debhelper (>= 7),
+               python3 (>= 3.8),
+               python3-pygame (>=1.9)
+Standards-Version: 4.5.1
+Priority: optional
+
+Package: typing-test
+Architecture: all
+Section: python
+Depends: python3 (>=3.8), python3-pygame (>=1.9), ${misc:Depends}
+Description: A typing test program

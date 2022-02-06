@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Sat, 05 Feb 2022 19:08:36 +0200
+Source: typing-test
+Binary: typing-test
+Architecture: source all
+Version: 1.0.0
+Distribution: unstable
+Urgency: medium
+Maintainer: Shallon Kobusinge <kobshallon041@gmail.com>
+Changed-By: Shallon <kobshallon041@gmail.com>
+Description:
+ typing-test - A typing test program
+Changes:
+ typing-test (1.0.0) unstable; urgency=medium
+ .
+   * Initial release. (Closes: #XXXXXX)
+Checksums-Sha1:
+ d7b334378b12f30c84ee67406b43c4b96ed9a76d 585 typing-test_1.0.0.dsc
+ 3358022c6c0e197bf9d2aa7d29f2059c6c9aefe9 141404 typing-test_1.0.0.tar.xz
+ 0eaae26106a92d503eccdcff2c6fac2b1370d95d 142000 typing-test_1.0.0_all.deb
+ 26628998bdf3d5e21b1312756a9af10d9518af0f 8202 typing-test_1.0.0_amd64.buildinfo
+Checksums-Sha256:
+ 3da55c6a195abbdbac446624d3a42d3dd68b0f5b506878b5b5c4eb8b4327fe4e 585 typing-test_1.0.0.dsc
+ 76c5932eb7de632a4f310a20646210dab1eaf1a941b08716ae9e8d13f6561a2c 141404 typing-test_1.0.0.tar.xz
+ 950cbbc74bab963b4a2ff4c3cda42d5541d58c3142aa60404e8f19005920b422 142000 typing-test_1.0.0_all.deb
+ 9dffd345a42724cef63704bd19002412c4cb828b564345866c478477792bb7b7 8202 typing-test_1.0.0_amd64.buildinfo
+Files:
+ 01b4e923068cb70f47f2efefcef94656 585 python optional typing-test_1.0.0.dsc
+ 57faf38bd332d930e49cbda3857d2865 141404 python optional typing-test_1.0.0.tar.xz
+ a6b0f4541584c699daa56c472010ca2a 142000 python optional typing-test_1.0.0_all.deb
+ bb9d37315652002f5296597d4aee47cd 8202 python optional typing-test_1.0.0_amd64.buildinfo

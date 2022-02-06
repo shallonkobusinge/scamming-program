@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+pandoc typing-test.1.md -s -t man > typing-test.1
+debuild --no-tgz-check -uc -us
+debuild -T clean

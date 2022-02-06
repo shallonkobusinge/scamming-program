@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Typing Test
+Comment=Typing Test
+Exec=/usr/bin/typing-test
+Icon=typing-test
+Type=Application
+StartupNotify=true
+Terminal=false
+StartupWMClass=typing-test
+Categories=Games;Entertainment;Education;Utilities;
+Keywords=type;typing;test;typing-test;quiz;play
