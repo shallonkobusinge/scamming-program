@@ -15,17 +15,17 @@ Changes:
  .
    * Initial release. (Closes: #XXXXXX)
 Checksums-Sha1:
- d7b334378b12f30c84ee67406b43c4b96ed9a76d 585 typing-test_1.0.0.dsc
- 3358022c6c0e197bf9d2aa7d29f2059c6c9aefe9 141404 typing-test_1.0.0.tar.xz
- 0eaae26106a92d503eccdcff2c6fac2b1370d95d 142000 typing-test_1.0.0_all.deb
- 26628998bdf3d5e21b1312756a9af10d9518af0f 8202 typing-test_1.0.0_amd64.buildinfo
+ 780c8944fb4446e6885f54b03fba3ab72f2a73eb 585 typing-test_1.0.0.dsc
+ a8ba335c500813bf87dc4b94496381eeeeb67060 141404 typing-test_1.0.0.tar.xz
+ 0b7fe6e42792aea4ead1dcb0383d300e216b89ac 142000 typing-test_1.0.0_all.deb
+ 4bb7f22cb924b9fe7871a3640d7e684dc61ffe48 8202 typing-test_1.0.0_amd64.buildinfo
 Checksums-Sha256:
- 3da55c6a195abbdbac446624d3a42d3dd68b0f5b506878b5b5c4eb8b4327fe4e 585 typing-test_1.0.0.dsc
- 76c5932eb7de632a4f310a20646210dab1eaf1a941b08716ae9e8d13f6561a2c 141404 typing-test_1.0.0.tar.xz
- 950cbbc74bab963b4a2ff4c3cda42d5541d58c3142aa60404e8f19005920b422 142000 typing-test_1.0.0_all.deb
- 9dffd345a42724cef63704bd19002412c4cb828b564345866c478477792bb7b7 8202 typing-test_1.0.0_amd64.buildinfo
+ 4a457e12b913440ea3f63b8f508ff65f28a2349c1ad35ab309f26430dd440b22 585 typing-test_1.0.0.dsc
+ cecf7d980949c5398ac541d1a31a134f02246b31d68fd32c0a681d07d6e7ff5e 141404 typing-test_1.0.0.tar.xz
+ 5883da5d4c5eb061f238871aecfb196fdc290cdd5f353683348e133d489a2777 142000 typing-test_1.0.0_all.deb
+ 21e678946f3db3d8216569464a581461b38df377c5bea56b11e99e50a49eb024 8202 typing-test_1.0.0_amd64.buildinfo
 Files:
- 01b4e923068cb70f47f2efefcef94656 585 python optional typing-test_1.0.0.dsc
- 57faf38bd332d930e49cbda3857d2865 141404 python optional typing-test_1.0.0.tar.xz
- a6b0f4541584c699daa56c472010ca2a 142000 python optional typing-test_1.0.0_all.deb
- bb9d37315652002f5296597d4aee47cd 8202 python optional typing-test_1.0.0_amd64.buildinfo
+ 041b7fe7d1df69b5ec47967ae7a66876 585 python optional typing-test_1.0.0.dsc
+ a505fa09690f4baf715fedc381404bf4 141404 python optional typing-test_1.0.0.tar.xz
+ 54cd385970cb706f31c1687714c31ee6 142000 python optional typing-test_1.0.0_all.deb
+ a4e6a05d492b67033dedc1060075b0b8 8202 python optional typing-test_1.0.0_amd64.buildinfo

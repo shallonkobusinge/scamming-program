@@ -9,8 +9,8 @@ Build-Depends: debhelper (>= 7), python3 (>= 3.8), python3-pygame (>= 1.9)
 Package-List:
  typing-test deb python optional arch=all
 Checksums-Sha1:
- 3358022c6c0e197bf9d2aa7d29f2059c6c9aefe9 141404 typing-test_1.0.0.tar.xz
+ a8ba335c500813bf87dc4b94496381eeeeb67060 141404 typing-test_1.0.0.tar.xz
 Checksums-Sha256:
- 76c5932eb7de632a4f310a20646210dab1eaf1a941b08716ae9e8d13f6561a2c 141404 typing-test_1.0.0.tar.xz
+ cecf7d980949c5398ac541d1a31a134f02246b31d68fd32c0a681d07d6e7ff5e 141404 typing-test_1.0.0.tar.xz
 Files:
- 57faf38bd332d930e49cbda3857d2865 141404 typing-test_1.0.0.tar.xz
+ a505fa09690f4baf715fedc381404bf4 141404 typing-test_1.0.0.tar.xz

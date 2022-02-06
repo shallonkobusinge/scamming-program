@@ -21,5 +21,5 @@ Finished running lintian.
 Now signing changes and any dsc files...
  signfile dsc typing-test_1.0.0.dsc Shallon <kobshallon041@gmail.com>
 gpg: skipped "Shallon <kobshallon041@gmail.com>": No secret key
-gpg: /tmp/debsign.Q0VQmJ1b/typing-test_1.0.0.dsc: clear-sign failed: No secret key
+gpg: /tmp/debsign.LYm7t42g/typing-test_1.0.0.dsc: clear-sign failed: No secret key
 debsign: gpg error occurred!  Aborting....

@@ -4,17 +4,17 @@ Binary: typing-test
 Architecture: all source
 Version: 1.0.0
 Checksums-Md5:
- 01b4e923068cb70f47f2efefcef94656 585 typing-test_1.0.0.dsc
- a6b0f4541584c699daa56c472010ca2a 142000 typing-test_1.0.0_all.deb
+ 041b7fe7d1df69b5ec47967ae7a66876 585 typing-test_1.0.0.dsc
+ 54cd385970cb706f31c1687714c31ee6 142000 typing-test_1.0.0_all.deb
 Checksums-Sha1:
- d7b334378b12f30c84ee67406b43c4b96ed9a76d 585 typing-test_1.0.0.dsc
- 0eaae26106a92d503eccdcff2c6fac2b1370d95d 142000 typing-test_1.0.0_all.deb
+ 780c8944fb4446e6885f54b03fba3ab72f2a73eb 585 typing-test_1.0.0.dsc
+ 0b7fe6e42792aea4ead1dcb0383d300e216b89ac 142000 typing-test_1.0.0_all.deb
 Checksums-Sha256:
- 3da55c6a195abbdbac446624d3a42d3dd68b0f5b506878b5b5c4eb8b4327fe4e 585 typing-test_1.0.0.dsc
- 950cbbc74bab963b4a2ff4c3cda42d5541d58c3142aa60404e8f19005920b422 142000 typing-test_1.0.0_all.deb
+ 4a457e12b913440ea3f63b8f508ff65f28a2349c1ad35ab309f26430dd440b22 585 typing-test_1.0.0.dsc
+ 5883da5d4c5eb061f238871aecfb196fdc290cdd5f353683348e133d489a2777 142000 typing-test_1.0.0_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Sun, 06 Feb 2022 22:09:25 +0200
+Build-Date: Sun, 06 Feb 2022 23:03:55 +0200
 Build-Tainted-By:
  merged-usr-via-symlinks
 Installed-Build-Depends:
